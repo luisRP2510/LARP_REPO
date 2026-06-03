@@ -10,15 +10,15 @@ curso de diseño Experimental
 
 ## PIA - Diseños Esperimentales 
 
-#alumno 
+# alumno 
 
 luis alfredo reyes prado 
 
-#facultad
+# facultad
 
 facultad de ciencias forestales
 
-#descripcion
+# descripcion
 
 este es un repositorio para poder almacenar las evidencias y scrips, tareas entre mas, las cuales se vallan realizando durante el curso 
 
