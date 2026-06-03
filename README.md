@@ -4,8 +4,11 @@ curso de diseño Experimental
 ##contenido del curso 
 
 ° clase semana 1
-° clase semana 2
+
+° clase semana 2 
+
 ° clase semana 3
+
 ° clase semana 4 / 09/02/2026
 
 ## PIA - Diseños Esperimentales 
