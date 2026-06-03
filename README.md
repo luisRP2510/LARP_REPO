@@ -28,7 +28,9 @@ este es un repositorio para poder almacenar las evidencias y scrips, tareas entr
 ## Contenido del repositorio 
 
 ° scrips en R
+
 °laboratorios 
+
 ° evidencias 
 
 ## temas desarrollados 
